@@ -1,0 +1,4 @@
+#Fri Feb 23 10:30:32 WIB 2024
+base.0=C\:\\Users\\kadek.agus\\Downloads\\FlutterTraining\\vehicle_control\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

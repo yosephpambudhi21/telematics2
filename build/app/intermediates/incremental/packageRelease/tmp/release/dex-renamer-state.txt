@@ -1,0 +1,4 @@
+#Thu Feb 22 14:39:03 WIB 2024
+base.0=C\:\\Users\\kadek.agus\\Downloads\\FlutterTraining\\vehicle_control\\build\\app\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
